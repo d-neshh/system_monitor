@@ -32,7 +32,7 @@ A lightweight cross-platform system monitoring CLI tool built in C++ that provid
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/system-monitor.git
+git clone https://github.com/d-neshh/system-monitor.git
 
 # Navigate to project directory
 cd system-monitor
@@ -63,9 +63,7 @@ g++ system_monitor.cpp -o system_monitor
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
